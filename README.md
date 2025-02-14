@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+🔭 I’m currently working on Primitive Neural Network, a bio-inspired neural network designed for ultra-low power embedded detection.
 <!--
 **AdrienDeverin/AdrienDeverin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
